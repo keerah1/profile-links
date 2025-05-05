@@ -20,6 +20,7 @@ body{
   flex-direction: column;
   padding-bottom: 15px;
   margin-top: 50px;
+  margin-bottom: -65px;
 
 }
 .name-p{
@@ -73,3 +74,5 @@ body a:focus{
  border: 2px black;
 }
 
+
+ 
